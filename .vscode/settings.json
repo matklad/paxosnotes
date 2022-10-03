@@ -1,0 +1,4 @@
+{
+    // "tlaplus.java.options": "-workers 8",
+    "tlaplus.tlc.modelChecker.options": "-workers 12"
+}
